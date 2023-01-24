@@ -1,0 +1,14 @@
+*{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.desc {
+    background-color: bisque;
+    color: rgb(117, 35, 62);
+    font-family: "Times New Roman", sans-serif;
+}
